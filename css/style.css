@@ -41,7 +41,6 @@ color: #010101;
 }
 
 .sec-info{
-    font-family: 'Aeonik';
 font-style: normal;
 font-weight: 500;
 font-size: 24px;
@@ -49,7 +48,6 @@ line-height: 29px;
 color: #000000;
 }
 .btn-learn{
-    font-family: 'Aeonik';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
@@ -59,4 +57,28 @@ text-transform: uppercase;
 .slide-section{
     background: rgb(237,237,237);
     background: linear-gradient(360deg, rgba(237,237,237,1) 0%, rgba(237,237,237,1) 10%, rgba(237,237,237,1) 14%, rgba(237,237,237,1) 15%, rgba(237,237,237,1) 21%, rgba(237,237,237,1) 25%, rgba(237,237,237,1) 29%, rgba(237,237,237,1) 33%, rgba(237,237,237,1) 40%, rgba(255,255,255,1) 100%);
+}
+.card img {
+    height: 480px;
+}
+.card-body{
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: right;
+}
+.feed-section .feed-img{
+    background-image: url(../images/Frame\ 36.png);
+    background-repeat: no-repeat;
+    height: 746px;
+}
+
+footer{
+    background: #F3F3F3;
+}
+footer .nav-height{
+    height: 160px;
 }
