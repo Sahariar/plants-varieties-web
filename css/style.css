@@ -82,3 +82,6 @@ footer{
 footer .nav-height{
     height: 160px;
 }
+.nav-link i {
+    color: #000;
+}
